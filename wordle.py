@@ -63,11 +63,9 @@ def query():
         print("HOPE YOU HAD FUN :D")
 
 def choice():
-    print("[1] START A NEW GAME")
+    print("[1] START")
     print("[2] VIEW TUTORIAL")
-    print("[3] VIEW SCORE | WORK IN PROGRESS")
-    print("[4] TURN ON EASY READ AND PLAY")
-    print("[5] EXIT GAME")
+    print("[3] EXIT GAME")
     choice = int(input("ENTER CHOICE: "))          
     if choice == 1:
         game()
@@ -75,7 +73,7 @@ def choice():
     if choice == 2:
         tutorial()
         query()
-    if choice == 5:
+    if choice == 3:
         print("HOPE YOU HAD FUN :D")
         pass
 
