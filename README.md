@@ -1,4 +1,4 @@
-# Python Wordle
+# Command Line Wordle 
 
 A simple Python recreation of the popular word game **Wordle**, where players guess a 5-letter word in six attempts or fewer. This project is a beginner-friendly exercise in Python programming, focusing on logic, string manipulation, and user interaction.
 
