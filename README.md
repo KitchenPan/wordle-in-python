@@ -22,8 +22,7 @@ A simple Python recreation of the popular word game **Wordle**, where players gu
 - Python 3.x installed on your system.
 
 ### Installation
-1. Clone this repository:
-   ```bash
+```
    git clone https://github.com/yourusername/python-wordle.git
-  2. 
    cd python-wordle
+   py wordle.py
